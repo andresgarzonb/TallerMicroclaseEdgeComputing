@@ -1,7 +1,7 @@
 # Taller: Detección de Objetos con YOLOv8
 ## Descripción del escenario
-Un automóvil autónomo cuenta con una cámara frontal que captura imágenes 
-del entorno mientras el vehículo se encuentra en movimiento. Estas imágenes 
+Un vehículo autónomo cuenta con una cámara frontal que captura imágenes 
+del entorno mientras se encuentra en movimiento. Estas imágenes 
 permiten identificar elementos de la vía como vehículos, peatones y señales 
 de tránsito.
 
