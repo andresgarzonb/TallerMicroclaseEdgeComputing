@@ -35,8 +35,8 @@ Etiquetas detectadas: ['car', 'person', 'traffic light']
 - Nombre 2
 
 ## Lo que entregan en el fork
-taller/
-├── detector.py         ← código completo
-├── image.jpeg          ← la imagen elegida
+taller/</br>
+├── detector.py         ← código completo</br>
+├── image.jpeg          ← la imagen elegida</br>
 └── resultados.txt      ← generado al correr el código, incluye imagen elegida
 ```
